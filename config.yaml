@@ -1,0 +1,5 @@
+auth:
+  username: admin
+  password: password
+imgbed:
+  domain: http://xxx.com
